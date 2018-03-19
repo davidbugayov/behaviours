@@ -24,6 +24,8 @@
         <activity android:name=".AppBarFlexiSpaceScrollsActivity" />
         <activity android:name=".AppBarFlexiImageScrollsActivity" />
         <activity android:name=".AppBarFlexiOverlappingActivity" />
+        <activity android:name=".SwipeActivity" />
+        <activity android:name=".FlexibleButtonActivity"/>
     </application>
 
 </manifest>

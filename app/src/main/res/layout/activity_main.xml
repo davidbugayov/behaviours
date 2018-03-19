@@ -87,6 +87,28 @@
                 android:layout_height="wrap_content"
                 android:onClick="launchAppBarFlexiOverlappingActivity"
                 android:text="@string/appbar_with_flexi_overlapping_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/appbar_with_flexi_with_floatingbutton" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="launchFlexibleButtonAction"
+                android:text="@string/appbar_with_flexi_with_floatingbutton" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/swipe_dismiss_behavior" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="launchSwipeActivity"
+                android:text="@string/swipe_dismiss_behavior" />
+
+
         </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
 </RelativeLayout>

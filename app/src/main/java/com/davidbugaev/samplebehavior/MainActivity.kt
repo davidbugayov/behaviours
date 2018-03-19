@@ -51,4 +51,14 @@ class MainActivity : AppCompatActivity() {
         val newIntent = Intent(this, AppBarFlexiOverlappingActivity::class.java)
         startActivity(newIntent)
     }
+
+    fun launchSwipeActivity(button: View) {
+        val newIntent = Intent(this, SwipeActivity::class.java)
+        startActivity(newIntent)
+    }
+
+    fun launchFlexibleButtonAction(button: View) {
+        val newIntent = Intent(this, FlexibleButtonActivity::class.java)
+        startActivity(newIntent)
+    }
 }

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ScrollingBehaviorAndroid</string>
+    <string name="app_name">SampleBehavior</string>
     <string name="content">БОГ
 "Профессор в университете задал своим студентам такой вопрос.
 — Всё, что существует, создано Богом?
@@ -49,4 +49,7 @@
     <string name="stdappbar_with_toolbar_stays">StdAppBar with Toolbar Stays</string>
     <string name="stdappbar_with_toolbar_scrolls">StdAppBar with Toolbar Scrolls</string>
     <string name="standard_app_bar_with_tollbar_only">Standard App bar with Tollbar only</string>
+    <string name="swipe_dismiss_behavior">Card View with Swipe</string>
+    <string name="appbar_with_flexi_with_floatingbutton">AppBar with Flexi - FloatingButton</string>
+    <string name="swype_help">The \'Swipe to dismiss\' behavior allows you to easily add the \'Swipe to dismiss\' functionality in a View inside a CoordinatorLayout</string>
 </resources>
